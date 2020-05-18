@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mokerstier/Rijksmuseum-Ticketflow.git"
+    "url": "git+https://github.com/Mokerstier/improved-adventure.git"
   },
   "keywords": [
     "portfolio",
@@ -35,9 +35,9 @@
   "author": "Wouter van der Heijde",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Mokerstier/Rijksmuseum-Ticketflow/issues"
+    "url": "https://github.com/Mokerstier/improved-adventure/issues"
   },
-  "homepage": "https://github.com/Mokerstier/Rijksmuseum-Ticketflow#readme",
+  "homepage": "https://github.com/Mokerstier/improved-adventure#readme",
   "devDependencies": {
     "nodemon": "^2.0.4"
   },
